@@ -13,3 +13,4 @@ twitch-videoad.js application/javascript
 		return realFetch.apply(this, arguments);
 	};
 })();
+</script> 
